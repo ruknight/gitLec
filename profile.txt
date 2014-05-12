@@ -2,3 +2,4 @@ aaaaa
 age: 19
 height
 weight
+home : ZŠ
