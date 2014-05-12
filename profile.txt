@@ -3,6 +3,7 @@ age: 19
 height
 weight
 home : ZŠ
+japan
 school tut
 college: Šw•”
 
