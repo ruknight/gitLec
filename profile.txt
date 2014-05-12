@@ -3,3 +3,5 @@ age: 19
 height
 weight
 home : ZŠ
+school tut
+
