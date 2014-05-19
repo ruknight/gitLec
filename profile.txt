@@ -2,9 +2,9 @@ aaaaa
 age: 19
 height
 weight
-home : ZŠ
+home : 
 japan
 school tut
-college: Šw•”
+college: 
 iiiiiiiii
 sssssssss
